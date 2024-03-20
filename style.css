@@ -1,0 +1,23 @@
+.Filltext {
+    color: gray;
+    opacity: 75%;
+    font-family: cursive;
+    font-style: normal;
+    padding-left: 5px;
+}
+
+.Sendbutton {
+    background-color: lightgray;
+    margin-left: 18%;
+    margin-top: 1%;
+    text-align: center;
+    display: inline-block;
+}
+
+input {
+    border-style: solid;
+    display: block;
+    margin-left: 0%;
+    margin-block: -8px;
+    width: 300px;
+}
